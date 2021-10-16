@@ -2,4 +2,4 @@
 TumAI Makeathon 2021
 Team Members: Samira Hatoum, Harshinee Baaskar, Ayush Sharma, Maximilian Kreft, Filippo Kiessler
 
-ML Library Used: Scikit-learn
+ML library used: Scikit-learn
